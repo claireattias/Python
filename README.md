@@ -1,9 +1,7 @@
 
 ### PyBank 
 
-Create a Python script to analyze financial records from financial dataset budget_data.csv
-
-Calculate:
+This activity creates a Python script to analyze financial records (budget_data.csv) by calculating:
 
 -The total number of months included in the dataset
 
@@ -18,9 +16,7 @@ Calculate:
   
 ### PyPoll 
 
-Create a Python script that analyzes the vote-counting process from poll data election_data.csv
-
-Calculate:
+This activity creates a Python script that analyzes the vote-counting process (election_data.csv) by calculating:
 
 -The total number of votes cast
   
